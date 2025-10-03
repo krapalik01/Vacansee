@@ -23,7 +23,7 @@ import type { CityKey } from './types/vacancy';
 
 function App() {
   const dispatch = useAppDispatch();
-  const { filters, currentPage, items, totalPages } = useAppSelector(
+  const { filters, currentPage, totalPages } = useAppSelector(
     (state) => state.vacancies
   );
 
