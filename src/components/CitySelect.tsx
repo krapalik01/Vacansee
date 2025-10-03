@@ -13,7 +13,7 @@ function CitySelect({ city, setCity }: CitySelectProps) {
       w="269"
       leftSection={
         <img
-          src="/mapPin.svg"
+          src="mapPin.svg"
           alt="mapPin icon"
           style={{ width: 16, height: 16 }}
         />
