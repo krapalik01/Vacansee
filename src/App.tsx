@@ -112,6 +112,7 @@ function App() {
               <Flex justify="center">
                 <Pagination
                   mb="64"
+                  withEdges
                   total={totalPages}
                   value={currentPage}
                   onChange={handlePageChange}
