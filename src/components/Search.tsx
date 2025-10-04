@@ -34,7 +34,7 @@ function Search({ searchText, setSearchText, onSearch }: SearchProps) {
             placeholder="Должность или название компании"
             leftSection={
               <img
-                src="/search.svg"
+                src="/Vacansee/search.svg"
                 alt="search icon"
                 style={{ width: 16, height: 16 }}
               />

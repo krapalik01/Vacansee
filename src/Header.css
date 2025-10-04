@@ -9,7 +9,7 @@
   gap: 24px;
 }
 .logo {
-  background-image: url('Vacansee/logo.svg');
+  background-image: url('/Vacansee/logo.svg');
   width: 116px;
   height: 31px;
   background-repeat: no-repeat;
@@ -17,14 +17,14 @@
   left: 20px;
 }
 .blue {
-  background-image: url('Vacansee/blue.svg');
+  background-image: url('/Vacansee/blue.svg');
   background-repeat: no-repeat;
   width: 7px;
   height: 7px;
   margin-left: 6px;
 }
 .profile {
-  background-image: url('Vacansee/profile.svg');
+  background-image: url('/Vacansee/profile.svg');
   width: 24px;
   height: 24px;
 }
